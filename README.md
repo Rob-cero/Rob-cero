@@ -1,4 +1,4 @@
-<h1>Hi, I'm Roblito Canedo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCwhAqD0_pxORDkor0s_pU5w">YouTuber??? MAYBEEE</a></h1>
+<h1>Hi, I'm Roblito Canedo! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/robert-rahming-6aa099256/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UCwhAqD0_pxORDkor0s_pU5w">YouTuber??? MAYBEEE</a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
